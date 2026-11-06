@@ -81,23 +81,13 @@
         "profile": "tech-blog",
         "time_window_hours": 24
       },
-          {
-        "name": "国际新闻界（公众号）",
-        "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_6cbdc2c3ea8f.xml",
-        "enabled": true,
-        "category": "academic-news",
-        "profile": "academic-news",
-        "time_window_hours": 360,
-        "content_extractor": "trafilatura"
-      },
       {
-        "name": "新闻与传播学术前沿（公众号）",
-        "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_f3459a443dfe.xml",
+        "name": "JMCQ",
+        "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmq&type=etoc&feed=rss",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
-        "time_window_hours": 360,
-        "content_extractor": "trafilatura"
+        "time_window_hours": 720
       }
     ],
     "reddit": {
