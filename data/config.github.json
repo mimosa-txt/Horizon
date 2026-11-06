@@ -83,7 +83,7 @@
       },
       {
         "name": "新闻与传播研究",
-        "url": "https://rss.cnki.net/kns/rss.aspx?Journal=YANJ&Virtual=knavi",
+        "url": "http://rss.cnki.net/kns/rss.aspx?Journal=YANJ&Virtual=knavi",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
@@ -91,7 +91,7 @@
       },
       {
         "name": "国际新闻界",
-        "url": "https://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
+        "url": "http://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
