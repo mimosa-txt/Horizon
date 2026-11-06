@@ -87,7 +87,7 @@
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news"
-      }
+      },
       {
         "name": "国际新闻界",
         "url": "https://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
@@ -134,14 +134,14 @@
     }
   },
   "collection": {
-    "time_window_hours": 24
+    "time_window_hours": 12
   },
   "digest": {
-    "max_items": null,
+    "max_items": 10,
     "profile_order": [
-      "tech-news",
+      "academic-news",
       "tech-blog",
-      "finance-news"
+      "tech-news"
     ],
     "category_groups": {},
     "default_group": "other",
