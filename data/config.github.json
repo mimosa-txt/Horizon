@@ -60,7 +60,7 @@
       }
     ],
     "hackernews": {
-      "enabled": false,
+      "enabled": true,
       "fetch_top_stories": 30,
       "min_score": 150,
       "profile": "tech-news"
@@ -116,7 +116,7 @@
       "fetch_comments": 10
     },
     "telegram": {
-      "enabled": false,
+      "enabled": true,
       "channels": [
         {
           "channel": "zaihuapd",
@@ -139,11 +139,11 @@
     ],
     "category_groups": {
       "academic": {
-        "limit": 3,
+        "limit": 1,
         "categories": ["academic-news"]
       },
       "social": {
-        "limit": 5,
+        "limit": 6,
         "categories": ["social-news"]
       }
     },
