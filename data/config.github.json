@@ -82,20 +82,20 @@
         "time_window_hours": 24
       },
       {
-        "name": "新闻与传播研究",
-        "url": "http://rss.cnki.net/kns/rss.aspx?Journal=YANJ&Virtual=knavi",
+        "name": "新闻与传播学术前沿",
+        "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_f3459a443dfe.xml",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
-        "time_window_hours": 720
+        "time_window_hours": 360
       },
       {
         "name": "国际新闻界",
-        "url": "http://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
+        "url": "https://raw.githubusercontent.com/osnsyc/Wechat-Scholar/main/channels/gh_6cbdc2c3ea8f.xml",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
-        "time_window_hours": 720
+        "time_window_hours": 360
       }
     ],
     "reddit": {
