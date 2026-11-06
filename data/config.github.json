@@ -81,7 +81,7 @@
         "url": "https://a.jiemian.com/index.php?m=article&a=rss",
         "enabled": true,
         "category": "social-news",
-        "profile": "tech-news"
+        "profile": "tech-blog"
       },
       {
         "name": "新闻与传播研究",
