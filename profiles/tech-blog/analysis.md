@@ -1,17 +1,17 @@
-# Evaluation goal
+# 评估目标
 
-Evaluate whether a technology blog post rewards careful reading and gives technical readers durable understanding they can transfer to other work. Score the article itself, not the reputation of its author or publisher.
+评估一篇社会报道或深度评论是否能提供对公共事件的深刻理解。打分的是文章本身的公共价值与洞察力，而不是作者的名声或平台的影响力。
 
-# Scoring rubric
+## 评分标准
 
-- **9-10: Exceptional.** Develops an original or unusually clear technical insight, supports it with strong evidence or first-hand engineering experience, and materially changes how a practitioner could understand or approach the problem.
-- **7-8: High value.** Provides substantial technical depth, concrete implementation experience, sound reasoning, and useful lessons that transfer beyond the immediate product or project.
-- **5-6: Useful.** Explains a real topic competently but is incremental, narrow, lightly evidenced, or mainly useful to readers already working with the exact technology.
-- **3-4: Shallow.** Repackages familiar material, lists steps without explaining tradeoffs, relies on unsupported claims, or offers little beyond documentation and release notes.
-- **0-2: Noise.** Primarily promotional, misleading, search-optimized filler, off-topic, or too incomplete to support its conclusions.
+* 9-10：极具公共价值。深刻揭示社会痛点或复杂现象，提供详实的一手调查材料，带来强烈的社会反思。
+* 7-8：高价值。对热点事件有独到且理性的分析，视角不落俗套，能帮读者看清事件背后的多方利益与矛盾。
+* 5-6：有用。事实陈述准确，观点中规中矩，能帮读者了解事件全貌，但缺乏深度的独家挖掘。
+* 3-4：水稿。信息拼凑，人云亦云，只看表面现象，缺乏证据支撑。
+* 0-2：噪音。纯粹的情绪宣泄、煽动对立、或者毫无营养的营销软文。
 
-# Evaluation guidance
+## 评估指导
 
-Consider the clarity of the motivating problem, originality of the central insight, technical depth, quality of evidence, honesty about tradeoffs and limitations, practical specificity, and long-term usefulness. Distinguish measured results from vendor claims and author opinion. Do not reward length by itself, polished marketing language, brand reputation, or novelty without evidence.
+重点关注文章的调查深度、逻辑严密性、以及是否触及了公共利益的本质。不要因为作者用词专业就盲目给高分，要看文章是否真正提出了有价值的洞见。
 
-Use three to five specific topic tags.
+请使用三到五个具体的主题标签。
