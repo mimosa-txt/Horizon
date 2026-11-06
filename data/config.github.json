@@ -18,14 +18,14 @@
     "default_profile": "tech-news",
     "profile_settings": {
       "tech-news": {
-        "threshold": 8.5,
+        "threshold": 7.5,
         "topic_dedup": true
       },
       "academic-news": {
-        "threshold": 5.0
+        "threshold": 3.0
       },
       "tech-blog": {
-        "threshold": 6.0
+        "threshold": 4.0
       }
     }
   },
