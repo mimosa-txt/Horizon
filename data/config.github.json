@@ -86,7 +86,7 @@
         "url": "https://rss.cnki.net/kns/rss.aspx?Journal=YANJ&Virtual=knavi",
         "enabled": true,
         "category": "academic-news",
-        "profile": "academic-news"
+        "profile": "academic-news",
         "time_window_hours": 720
       },
       {
@@ -94,7 +94,7 @@
         "url": "https://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
         "enabled": true,
         "category": "academic-news",
-        "profile": "academic-news"
+        "profile": "academic-news",
         "time_window_hours": 720
       }
     ],
