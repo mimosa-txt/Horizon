@@ -79,6 +79,7 @@
         "enabled": true,
         "category": "social-news",
         "profile": "tech-blog"
+        "time_window_hours": 24
       },
       {
         "name": "新闻与传播研究",
@@ -86,6 +87,7 @@
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news"
+        "time_window_hours": 720
       },
       {
         "name": "国际新闻界",
@@ -93,10 +95,11 @@
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news"
+        "time_window_hours": 720
       }
     ],
     "reddit": {
-      "enabled": true,
+      "enabled": false,
       "subreddits": [
         {
           "subreddit": "MachineLearning",
@@ -121,7 +124,7 @@
       "fetch_comments": 10
     },
     "telegram": {
-      "enabled": true,
+      "enabled": false,
       "channels": [
         {
           "channel": "zaihuapd",
@@ -142,7 +145,16 @@
       "tech-blog",
       "tech-news"
     ],
-    "category_groups": {},
+    "category_groups": {
+      "academic": {
+        "limit": 3,
+        "categories": ["academic-news"]
+      },
+      "social": {
+        "limit": 5,
+        "categories": ["social-news"]
+      }
+    },
     "default_group": "other",
     "default_group_limit": null
   },
