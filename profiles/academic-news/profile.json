@@ -1,0 +1,34 @@
+{
+  "id": "academic-news",
+  "name": "Academic News",
+  "display_names": {
+    "zh": "学术前沿"
+  },
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "content": {
+    "analysis_max_chars": 16000,
+    "enrichment_max_chars": 24000,
+    "sampling": "head-middle-tail"
+  },
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {
+        "id": "background",
+        "type": "section",
+        "tools": []
+      },
+      {
+        "id": "theory",
+        "type": "section",
+        "tools": []
+      },
+      {
+        "id": "takeaway",
+        "type": "section",
+        "tools": []
+      }
+    ]
+  }
+}
