@@ -82,8 +82,8 @@
         "time_window_hours": 24
       },
       {
-        "name": "JMCQ",
-        "url": "https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=jmq&type=etoc&feed=rss",
+        "name": "Digital Journalism",
+        "url": "https://www.tandfonline.com/feed/rss/rdij20",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news",
