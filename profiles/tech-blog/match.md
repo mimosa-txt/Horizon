@@ -1,7 +1,7 @@
-# Technology blog profile
+# 社会热点深度简介
 
-Use this profile for long-form technical writing whose primary value is explanation, argument, experience, or durable engineering insight rather than a timely event alone.
+使用此配置文件，适用于主要价值为解释社会现象、探讨公共事件、记录深度调查、或者具备社会讨论价值的深度长文。
 
-Typical items include engineering deep dives, implementation walkthroughs, performance investigations, architecture discussions, incident retrospectives, technical tutorials, case studies, and essays that develop a substantive technical argument.
+典型内容包括：深度社会调查报道、新闻媒介伦理探讨、社会热点事件的深度复盘、公共政策分析、以及具有公共价值的非虚构写作。
 
-Do not use this profile for short release announcements, routine project updates, news reports, API reference pages, complete academic papers, thin search-optimized tutorials, or promotional material without concrete technical reasoning. When an article mainly reports that something happened, use a news profile even if it appears on a technical blog.
+请勿使用本配置文件发布：纯技术代码分享、工程架构分析、简短快讯或未经核实的自媒体情绪输出。
