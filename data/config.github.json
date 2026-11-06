@@ -78,7 +78,7 @@
         "url": "https://a.jiemian.com/index.php?m=article&a=rss",
         "enabled": true,
         "category": "social-news",
-        "profile": "tech-blog"
+        "profile": "tech-blog",
         "time_window_hours": 24
       },
       {
