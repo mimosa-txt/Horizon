@@ -22,13 +22,11 @@
         "threshold": 7.0,
         "topic_dedup": true
       },
-      "tech-blog": {
-        "threshold": 4.0,
-        "topic_dedup": false
+      "academic-news": {
+        "threshold": 5.0
       },
-      "finance-news": {
-        "threshold": 7.0,
-        "topic_dedup": true
+      "tech-blog": {
+        "threshold": 6.0
       }
     }
   },
@@ -86,6 +84,13 @@
       {
         "name": "新闻与传播研究",
         "url": "https://rss.cnki.net/kns/rss.aspx?Journal=YANJ&Virtual=knavi",
+        "enabled": true,
+        "category": "academic-news",
+        "profile": "academic-news"
+      }
+      {
+        "name": "国际新闻界",
+        "url": "https://rss.cnki.net/kns/rss.aspx?Journal=GJXW&Virtual=knavi",
         "enabled": true,
         "category": "academic-news",
         "profile": "academic-news"
